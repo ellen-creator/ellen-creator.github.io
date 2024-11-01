@@ -61,7 +61,7 @@ const Hero = () => {
 
   const one = <h1>Hello! My name is</h1>;
   const two = <h2 className="big-heading">Suhyun Lim</h2>;
-  const three = <h3 className="medium-heading">MBA | Marketing Enthusiast | Freelance Blogger</h3>;
+  const three = <h3 className="medium-heading">Business consultant | Tech Enthusiast | Extreme hiker</h3>;
   const four = (
     <>
       <p>
@@ -69,16 +69,13 @@ const Hero = () => {
       </p>
 
       <p>
-        I am Chandrika Deb, an alumnus of {' '} <a href="http://www.iimrohtak.ac.in">
-        IIM Rohtak</a> {' '} and {' '} <a href="https://www.bitmesra.ac.in">BIT Mesra</a> {' '} currently spearheading impactful marketing initiatives at {' '}
-        <a href="https://www.tatasteel.com">Tata Steel</a>.
+        I am Suhyun Lim, an alumnus of {' '} <a href="https://www.bcg.com/">
+        BCG</a> {' '} and {' '} <a href="https://www.kearney.com/">Kearney</a> {' '} currently heading to adventure of technology development for those in needs.
       </p>
 
 
       <p>
-        When not decoding the customer journey, you can find me sketching on {' '}
-        <a href="https://pin.it/4W1Rxtj">Pinterest</a> {' '} or writing technical blogs for {' '}
-        <a href="https://www.lambdatest.com">LambdaTest</a> {' '} and other freelance clients.
+        When not decoding the customer journey, you can find me climbing up the mountains or reading books related to brain and technical treament.
       </p>
     </>
   );

@@ -1,13 +1,13 @@
 ---
-date: '2020-07-30'
-title: 'Software Developer'
-company: 'Amdocs'
-location: 'Remote'
-range: 'July 2020 - June 2022'
-url: 'https://amdocs.com/'
+date: '2022-05-30'
+title: 'Business Analyst(Consultant)'
+company: 'Kearney'
+location: 'Seoul'
+range: 'May 2021 - May 2022'
+url: 'https://kearney.com/'
 ---
 
-- Managed the Development & User Acceptance Testing (UAT) of Real-Time-Billing (RTB) for Canada’s largest telecom service provider
-- Implemented RTB-NM1 Customization for improving the legacy tele-billing software for handling daily transactions
-- Led the development of Amdocs BSS-B2B telecom billing software as an associate developer in the core R&D team
-- Recognized as Star of the Month thrice for exceptional performance in the NM1-RTB client customization project
+- Suggested new customer friendly version of UI of e-commerce application for a domestic leading commerce company based on apple-to-apple comparison among industry leading companies
+- Analyzed specific cost drivers to rebuild KPIs and suggested cost modeling stimulator for a domestic leading commerce company
+- Implemented operational due diligence (ODD) from Top-line analysis focusing on the competitive advantage for IPO 
+- Supported procurement efficiency improvement and inventory planning through bottom-line approach by analyzing bills of materials (BOM) and its supply fluctuation for a global elevator manufacturing company

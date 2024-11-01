@@ -1,12 +1,11 @@
 ---
-date: '2024-04-14'
-title: 'Content Marketing Principles for Business'
+date: '2024-11-01'
+title: 'Anatomy: Human Neuroanatomy'
 github: ''
-external: 'https://static.semrush.com/academy/certificates/1b7fcb7245/chandrika-deb_11.pdf'
+external: 'https://drive.google.com/file/d/1vEA-O_Nb9WSaYvDEIlU2T9es3HDQIjvG/view?usp=sharing'
 tech:
-  - Content Marketing
-  - Semrush Tools
-  - Sales
+  - Neuroscience
+  - Cognitive science 
 company: 'Certification'
 showInProjects: true
 ---

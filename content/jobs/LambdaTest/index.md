@@ -1,13 +1,11 @@
 ---
-date: '2022-02-05'
-title: 'Freelance Technical Writer'
-company: 'LambdaTest'
-location: 'Remote'
-range: 'Feb 2022 - Present'
-url: 'https://www.lambdatest.com/'
+date: '2018-07-30'
+title: 'Voluntary Intern'
+company: 'Human Asia'
+location: 'Seoul'
+range: 'Jun 2018 - Jul 2019'
+url: 'https://www.humanasia.org/'
 ---
 
-- Published high quality SEO optimised blogs and articles on topics like CI/CD, DevOps, Selenium, LambdaTest integrations, Cross-Browser testing, and How-to tutorials
-- 400,000+ views on the following published articles:
-- [Streamline Your Development Process With Google Cloud CI/CD Pipeline](https://www.lambdatest.com/blog/google-cloud-ci-cd-pipeline/)
-- [Getting Started With DevOps – A Beginner’s Guide](https://www.lambdatest.com/blog/getting-started-with-devops/)
+- Recruited student street campaigners for world refugee day, World Foreigner’s day to conduct survey of awareness of them, 
+- Analyzed Indian students feedback on after school class and summarized them

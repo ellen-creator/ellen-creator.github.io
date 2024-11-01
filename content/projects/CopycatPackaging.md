@@ -1,14 +1,16 @@
 ---
-date: '2024-02-01'
-title: 'Copycat Packaging in Consumer Products'
+date: '2024-11-01'
+title: 'Linear Algebra for Machine Learning and Data
+Science'
 github: ''
-external: 'https://docs.google.com/presentation/d/1BhfDchTWfW0CFPsikQ2Ur_45HVbObBT5HPnSpcTXzAU/edit?usp=sharing'
+external: 'hhttps://drive.google.com/file/d/1qAkVWH4vdblQHX49r0cqWgwOSAVwIEVz/view?usp=sharing'
 tech:
-  - Marketing Ethics
-  - FMCG
-  - Brand Identity
-company: 'Project'
+  - Data Science
+  - Analysis
+  - Consulting
+  - Research
+company: 'Certification'
 showInProjects: true
 ---
 
-Why do companies, even big brands like Tata Skye indulge in Copycat Packaging? A deep dive.
+Express certain types of matrix operations as linear transformation, and apply concepts of eigenvalues and eigenvectors to machine learning problems.

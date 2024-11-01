@@ -1,16 +1,16 @@
 ---
 date: '2020-05-20'
-title: 'Face Mask Detection using Deep Learning'
-github: 'https://github.com/chandrikadeb7/Face-Mask-Detection'
-external: 'https://link.springer.com/chapter/10.1007/978-981-33-4673-4_49'
+title: 'Fundamental Neuroscience for Neuroimaging'
+github: ''
+external: 'https://drive.google.com/file/d/1c2Tf8if0Wiyql2SPHT3uWLO0knchE5U8/view?usp=sharing'
 tech:
-  - TensorFlow
-  - Keras
-  - OpenCV
-  - MobileNetV2
-company: 'Project'
+  - Neuroscience
+  - Matlab
+  - fMRI
+  - Neuroimage
+company: 'Certification'
 showInProjects: true
 ---
 
-A prototype to detect the presence of face masks in static images as well as in real-time video streams which was an essential in Covid era
+Neuroimaging methods are used with increasing frequency in clinical practice and basic research. I took this for learning analysis method for Neuroscience lab internship. 
 

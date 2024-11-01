@@ -1,15 +1,15 @@
 ---
 date: '3'
-title: 'MYOB: Make Your Own Basket'
-cover: './flipkart.png'
-external: 'https://docs.google.com/presentation/d/1ELoytkCyrR6PysGE34kiz_b6PXTBmbf_SWKGwSu9SeE/edit?usp=sharing'
+title: 'Carbon pay'
+cover: './carbonpay.png'
+external: 'https://youtu.be/Clg5Fv6JyZA?si=HcF5TgA49ZegDsCt'
 cta: 'https://chandrikadeb7.gumroad.com/l/mbaSlides?layout=profile'
 tech:
-  - Research
-  - SPSS
-  - Clustering
-  - Financial Implication
+  - Design thinking
+  - Ideation
+  - UI/UX
+
 ---
 
-Personalizing Flipkart India Employee Rewards with varied short-term and long-term incentives aligned with their age, career stage, personality traits, etc. for optimal engagement as part of **Flipkart WiRED 7.0 HR Track** Bschool Case Competition
+Created personalized carbon footprint tracking and miliege saving application as part of Design Thinking Class. I suggested financial benefits of carbon footprint. This idea is adopted to the Ecomoney by MINISTRY OF ENVIRONMENT. 
 

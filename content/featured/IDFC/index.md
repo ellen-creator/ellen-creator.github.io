@@ -1,16 +1,18 @@
 ---
 date: '2'
-title: 'iIFA: Integrated IDFC First Assistant'
-cover: './idfc.png'
-external: 'https://docs.google.com/presentation/d/1VBxFohznvvVg8Kxf5CPwx2UAgbv2ReTx6vzcp8A7u70/edit?usp=sharing'
+title: 'Customized Dashboard for Operation optmization'
+cover: './dashboard.png'
+external: 'https://www.notion.so/Cost-optimization-building-Dashboard-118aaf93086981d0acedd9a55e97229e?pvs=4'
 tech:
-  - Review Scraping
-  - User Persona
-  - Figma
-  - GTM
-  - RICE
+  - R
+  - Java
+  - CSS
+  - Excel Power Query
+  - Power BI
 ---
 
-Banking Application Enhancement for increased engagement time/customer for **IDFC FAME Product Track** Bschool Case Competition
+A n-tiered cost dashboard allows users to understand costs of the network and key drivers.
 
-Proposed enhanced chatbot, unique spending options beneficial for users, and geolocation based cashbacks and coupons reward store prompts
+This dashboard illustrate the whole progress of project by factory location. Each graph shows raw material waste, Operational Efficiency, Labor productivity, Labor utilization
+
+By comparing each site, figuring out why and how there are gap among factories should be tackled
