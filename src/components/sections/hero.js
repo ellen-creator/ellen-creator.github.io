@@ -82,10 +82,10 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://chandrikadeb7.gumroad.com"
+      href="https://www.notion.so/Management-Consulting-A-to-Z_v2-2-MCAZ-622572d08c24476fa5a4e741ac78956b?pvs=4"
       target="_blank"
       rel="noreferrer">
-      Check out my products!
+      Check out my case book!
     </a>
   );
 

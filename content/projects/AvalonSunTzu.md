@@ -2,7 +2,7 @@
 date: '2024-11-01'
 title: 'Introduction to Probability and Data with R'
 github: ''
-external: 'https://docs.google.com/presentation/d/1gpdKIeqhw4rpUXoTCgbmC8WMSSU-B2uOYhLG_6__wOs/edit?usp=sharing'
+external: 'https://drive.google.com/file/d/1Nvj2n1g7A13D85balBEWIjh1ksZKxw9j/view?usp=sharing'
 tech:
   - Consulting
   - Statistics

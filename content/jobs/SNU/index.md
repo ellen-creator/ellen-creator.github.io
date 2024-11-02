@@ -1,5 +1,5 @@
 ---
-date: '2024-12-30'
+date: '2024-11-01'
 title: 'Researh Assistant'
 company: 'Developmental Cognitive Neuroscience Laboratory' &nbsp; '(Seoul National University)'
 location: 'Seoul'
