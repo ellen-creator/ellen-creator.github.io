@@ -3,7 +3,7 @@ date: '3'
 title: 'Carbon pay'
 cover: './carbonpay.png'
 external: 'https://youtu.be/Clg5Fv6JyZA?si=HcF5TgA49ZegDsCt'
-cta: 'https://chandrikadeb7.gumroad.com/l/mbaSlides?layout=profile'
+cta: 'https://youtu.be/Clg5Fv6JyZA?si=HcF5TgA49ZegDsCt'
 tech:
   - Design thinking
   - Ideation
