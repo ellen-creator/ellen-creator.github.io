@@ -1,7 +1,7 @@
 ---
 date: '2024-11-01'
 title: 'Researh Assistant'
-company: company: 'Developmental Cognitive Neuroscience Laboratory `(Seoul National University)`'
+company: 'Developmental Cognitive Neuroscience Laboratory (Seoul National University)'
 location: 'Seoul'
 range: 'Nov 2023 - Current'
 url: 'https://sangahlab.snu.ac.kr/'
