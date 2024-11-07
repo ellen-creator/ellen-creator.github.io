@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Suhyun Lim',
     description:
-      'Suhyun Lim is chainging her career track from business consulting to technology development.',
+      'To business consulting to technology development.',
     siteUrl: 'https://ellen-creator.github.io', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '',
