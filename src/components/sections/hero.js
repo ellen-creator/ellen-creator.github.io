@@ -61,7 +61,7 @@ const Hero = () => {
 
   const one = <h1>Hello! My name is</h1>;
   const two = <h2 className="big-heading">Suhyun Lim</h2>;
-  const three = <h3 className="medium-heading">Business consultant | Tech Enthusiast | Extreme hiker</h3>;
+  const three = <h3 className="medium-heading"> Google Account Strategist| Business consultant | Tech Enthusiast | Extreme hiker</h3>;
   const four = (
     <>
       <p>
@@ -69,7 +69,8 @@ const Hero = () => {
       </p>
 
       <p>
-        I am Suhyun Lim, an alumnus of {' '} <a href="https://www.bcg.com/">
+        I am Suhyun Lim, working as a Google Ads account Strategist. I let people know how to use Google Ads more effcient and effective way. 
+        I am an alumnus of {' '} <a href="https://www.bcg.com/">
         BCG</a> {' '} and {' '} <a href="https://www.kearney.com/">Kearney</a> {' '} currently heading to adventure of technology development for those in needs.
       </p>
 
@@ -82,10 +83,10 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://www.notion.so/Management-Consulting-A-to-Z_v2-2-MCAZ-622572d08c24476fa5a4e741ac78956b?pvs=4"
+      href="https://litt.ly/youwantconsulting/sale/cs3uq8w"
       target="_blank"
       rel="noreferrer">
-      Check out my case book!
+      I published my book for consulting career!
     </a>
   );
 

@@ -10,4 +10,4 @@ company: 'Certification'
 showInProjects: true
 ---
 
-Understood business goals of content marketing focusing on how to research, create, & tailor right content for desired audience
+Understand how the autonomic nervous system activates the fight or flight response
