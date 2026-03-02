@@ -1,11 +1,12 @@
 ---
-date: '2018-07-30'
-title: 'Voluntary Intern'
-company: 'Human Asia'
+date: '2025-04-21'
+title: 'Account Strategist'
+company: 'Google'
 location: 'Seoul'
-range: 'Jun 2018 - Jul 2019'
-url: 'https://www.humanasia.org/'
+range: 'Apr 2025 - Current'
+url: 'https://www.google.com/about/careers/applications/jobs/results/114063819268858566-account-strategist-google-customers-solutions-english-korean'
 ---
 
-- Recruited student street campaigners for world refugee day, World Foreigner’s day to conduct survey of awareness of them, 
-- Analyzed Indian students feedback on after school class and summarized them
+- Drive Customer Growth: Acted as a strategic partner to businesses, using Google's advertising solutions to help them achieve ambitious goals and deliver exceptional, incremental outcomes. Achieveing 126 % of quarter target. 
+
+- Expert Sales and Strategy: Leveraged my knowledge of online media to build trusted customer relationships and translate business needs into powerful, AI-era advertising solutions.
