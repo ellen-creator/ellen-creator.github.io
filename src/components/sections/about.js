@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Stretegy building', 'Big Data Analysis', 'Operation optimization', 'MS office', 
+  const skills = ['Strategy building', 'Big Data Analysis', 'Operation optimization', 'MS office', 
   'Matlab', 'Tableau', 'Power BI', 'Python'];
 
   return (
@@ -141,7 +141,7 @@ const About = () => {
             </p>
             <p>
             During my tenure at {' '} <a href="https://www.bcg.com">BCG</a>, {' '} 
-            I solved several business problem occursing in general value chain from procurement to logistics.
+            I solved several business problem occuring in general value chain from procurement to logistics.
             </p>
 
             <p>
@@ -165,7 +165,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="/Users/sh9742/Desktop/ellen.png"
+              src="./ellen.png"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
